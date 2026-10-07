@@ -55,6 +55,13 @@ The project uses:
 - Ordinary Least Squares (OLS) Regression
 - Variance Inflation Factor (VIF)
 
+## How to Run
+
+1. Clone this repository.
+2. Open `macroeconomic_analysis.ipynb` in Jupyter Notebook, JupyterLab, or Google Colab.
+3. Make sure `macroeconomic_data.csv` is available in the project directory.
+4. Run the notebook cells in order to reproduce the analysis and visualizations.
+
 ## Key Findings
 
 ### TASI Model
