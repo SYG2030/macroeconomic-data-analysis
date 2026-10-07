@@ -59,7 +59,7 @@ The project uses:
 
 1. Clone this repository.
 2. Open `macroeconomic_analysis.ipynb` in Jupyter Notebook, JupyterLab, or Google Colab.
-3. Ensure 'data/macroeconomic_data.csv' is available in the project directory.
+3. The dataset is included in the data/ folder for reference and reproducibility.
 4. Run the notebook cells in order to reproduce the analysis and visualizations.
 
 ## Key Findings
