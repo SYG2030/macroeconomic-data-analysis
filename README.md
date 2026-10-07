@@ -119,3 +119,24 @@ macroeconomic-data-analysis/
 ### Correlation Matrix
 
 ![Correlation Matrix](./visualizations/Correlation%20Matrix.png)
+
+
+## Data Note
+
+The dataset contains 36 quarterly observations covering the period from 2015 Q1 to 2023 Q4.
+
+The original academic project used a combination of publicly sourced and simulated values for selected macroeconomic variables. The dataset is retained in this repository to reproduce and document the analysis performed for the project.
+
+## Limitations
+
+- The analysis is based on 36 quarterly observations, which limits the statistical power of the models.
+- Some macroeconomic variables in the original academic dataset were simulated rather than obtained entirely from official historical sources.
+- The analysis focuses on correlation and Ordinary Least Squares (OLS) regression and does not establish causal relationships.
+- Future work could use fully sourced historical data and apply additional time-series methods such as VAR or ARDL models.
+- The models are intended to demonstrate the analytical approach and findings of the academic project rather than provide a forecasting model.
+
+## Author
+
+**Sarah Y. Ghawi**
+
+Computer Science Graduate | Data & Business Analysis | Software Development
