@@ -72,25 +72,25 @@ macroeconomic-data-analysis/
 ├── macroeconomic_analysis.ipynb
 └── macroeconomic_data.csv
 
-
+```text
 ## Visualizations
 
 ### TASI Index Trend
 
-![TASI Index Trend](visualizations/TASI%20Index%20Trend.png)
+![TASI Index Trend](./visualizations/TASI%20Index%20Trend.png)
 
 ### MOEX Index Trend
 
-![MOEX Index Trend](visualizations/MOEX%20Index%20Trend.png)
+![MOEX Index Trend](./visualizations/MOEX%20Index%20Trend.png)
 
 ### Oil Price vs TASI
 
-![Oil Price vs TASI](visualizations/Oil%20Price%20vs%20TASI.png)
+![Oil Price vs TASI](./visualizations/Oil%20Price%20vs%20TASI.png)
 
 ### Oil Price vs MOEX
 
-![Oil Price vs MOEX](visualizations/Oil%20Price%20vs%20MOEX.png)
+![Oil Price vs MOEX](./visualizations/Oil%20Price%20vs%20MOEX.png)
 
 ### Correlation Matrix
 
-![Correlation Matrix](visualizations/Correlation%20Matrix.png)
+![Correlation Matrix](./visualizations/Correlation%20Matrix.png)
