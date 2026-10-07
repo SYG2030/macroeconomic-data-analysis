@@ -88,7 +88,14 @@ macroeconomic-data-analysis/
 │
 ├── README.md
 ├── macroeconomic_analysis.ipynb
-└── macroeconomic_data.csv
+├── data/
+│   └── macroeconomic_data.csv
+└── visualizations/
+    ├── Correlation Matrix.png
+    ├── MOEX Index Trend.png
+    ├── Oil Price vs MOEX.png
+    ├── Oil Price vs TASI.png
+    └── TASI Index Trend.png
 ```
 
 ## Visualizations
