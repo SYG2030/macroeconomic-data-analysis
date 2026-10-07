@@ -72,7 +72,7 @@ macroeconomic-data-analysis/
 ├── macroeconomic_analysis.ipynb
 └── macroeconomic_data.csv
 
-```markdown
+
 ## Visualizations
 
 ### TASI Index Trend
