@@ -14,6 +14,17 @@ The analysis focuses on identifying relationships between oil prices, interest r
 - Apply correlation analysis and multiple linear regression.
 - Evaluate potential multicollinearity using Variance Inflation Factor (VIF).
 
+ ## Technologies & Tools
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Statsmodels
+- Jupyter Notebook
+- Git & GitHub
+
 ## Dataset
 
 The dataset contains 36 quarterly observations covering the period from **2015 Q1 to 2023 Q4**.
