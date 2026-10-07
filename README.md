@@ -71,8 +71,8 @@ macroeconomic-data-analysis/
 ├── README.md
 ├── macroeconomic_analysis.ipynb
 └── macroeconomic_data.csv
+```
 
-```text
 ## Visualizations
 
 ### TASI Index Trend
